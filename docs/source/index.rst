@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+999bet - Cổng Game Đổi Thưởng Uy Tín và Hiện Đại
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`999bet <https://999bet.bike/>`_ là một cổng game đổi thưởng hiện đại ra mắt tại Việt Nam vào cuối năm 2021, nhưng thực chất đã có hơn 10 năm phát triển tại các thị trường lớn như Đài Loan, Singapore, Trung Quốc và Myanmar. Là sản phẩm nổi bật của một nhà phát hành uy tín, 999bet nhanh chóng thu hút hơn 1,5 triệu thành viên nhờ sự đa dạng trong trò chơi, giao diện thân thiện, và tỷ lệ nạp đổi cao nhất thị trường.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+999bet sở hữu hệ thống bảo mật hiện đại, giao dịch nhanh chóng và không mất phí, cùng đội ngũ hỗ trợ khách hàng chuyên nghiệp. Người chơi có thể tham gia đặt cược với mức nạp tối thiểu chỉ 10.000 VNĐ và yên tâm trải nghiệm nhờ tính minh bạch và hoạt động xanh chín. 999bet là lựa chọn hàng đầu cho game thủ yêu thích sự mới lạ và an toàn.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 22 Đ. TL 13, Thạnh Lộc, Quận 12, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0978666888. 
 
-.. toctree::
+Email: contact@999bet.bike. 
 
-   usage
-   api
+Website: https://999bet.bike/ 
+
+#999bet #trangchu999bet #dangky999bet #dangnhap999bet #link999bet
